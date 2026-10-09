@@ -1,0 +1,6 @@
+python-telegram-bot[webhooks]==21.6
+google-generativeai
+openai
+fastapi
+uvicorn
+python-dotenv
